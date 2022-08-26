@@ -312,4 +312,4 @@ def add_yolo_config(cfg):
     # Wandb Part
     _C.WANDB = CN()
     _C.WANDB.ENABLED = False
-    _C.WANDB.PROJECT_NAME = "yolov7"
+    _C.WANDB.PROJECT_NAME = "yolov7_d2"
